@@ -12,5 +12,11 @@
   </a>
 </div>
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=python,Excel,sqL,github,git,Tableau)]
+<h2>Skills</h2>
+<ul>
+  <li>💻 Programming Languages: Python, SQL</li>
+  <li>📊 Data Analysis: Pandas, NumPy, Excel</li>
+  <li>📈 Visualization: Matplotlib, Seaborn, Tableau</li>
+  <li>🔍 Databases: MySQL</li>
+  <li>⚙️ Tools & Technologies: Git, Jupyter Notebook</li>
+</ul>
