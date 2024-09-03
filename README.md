@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anjali </h1>
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning to be data analyst
+- 🌱 I’m currently learning to be a data analyst
 - 📫 How to reach me: Gurunganjali396@gmail.com
-- 😄 My website: https://thetechbrothers.net
-- ⚡ Hobby: travelling
+- 😄 My LinkedIn: https://www.linkedin.com/in/anjaligurung/
+- ⚡ Hobby: traveling
   
 ### Connect with me:
 <div id="badges">
